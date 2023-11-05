@@ -39,31 +39,32 @@ button{
     display: flex;
     flex-direction: column;
     width: 20%;
-
     border-right: solid 1px #dedcdc;
 
 }
 
-.persona_principal {
+.maria {
     display: flex;
     align-items: center;
     gap: 15px;
 }
 
-.listado_personas {
+.maria {
     display: flex;
     justify-content: space-between;
-    padding: 5% 10% 5% 3%;
+    padding: 4% 8% 4% 2%;
 }
 
-.listado_personas img {
+.maria2 img {
     width: 45px;
     height: 45px;
     border-radius: 50%;
 }
 
-.main-estado {
-    font-size: 12px;
+.maria2{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
 }
 
 .estado {
